@@ -1,0 +1,3 @@
+Prerequisites:
+
+conda install seaborn
